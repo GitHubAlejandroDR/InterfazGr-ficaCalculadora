@@ -16,7 +16,7 @@ A modo de guia para la parte gráfica como para el funcionamiento básico de alg
 2.- Pulsado de botones de operacion consecutivamente. 
 
   Tratamiento:
-  Exceptuando el pulsado de factorial que realizará el factorial del ultimo       número el resto de operación pulsadas consecutivamente será dada como           prioridad la última pulsada.
+  Exceptuando el pulsado de factorial que realizará el factorial del ultimo número el resto de operaciónes pulsadas consecutivamente se dará            prioridad a la última pulsada.
   
 3.- Operar con números negativos.
 
@@ -28,7 +28,7 @@ A modo de guia para la parte gráfica como para el funcionamiento básico de alg
   Tratamiento:
   No será permitido su escritura. Se lanzará un mensaje de ERROR.
   
-5.- Captura de excepciones por problemas de sintaxis. ( Factorial de un número negativo o decimal o primo de un número negativo )
+5.- Captura de excepciones por problemas de sintaxis. ( Factorial de un número negativo o decimal, primo de un número negativo, ... )
 
   Tratamiento:
   Se lanzará el correspondiente mensaje de la excepción.
